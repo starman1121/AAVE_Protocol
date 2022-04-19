@@ -1,0 +1,26 @@
+{
+  "locales": [
+    "en",
+    "es",
+    "fr"
+  ],
+  "catalogs": [
+    {
+      "path": "src/locales/{locale}/messages",
+      "include": [
+        "src",
+        "pages"
+      ]
+    }
+  ],
+  "format": "po",
+  "formatOptions": {
+    "origins": true,
+    "lineNumbers": false
+  },
+  "orderBy": "messageId",
+  "sourceLocale": "en",
+  "fallbackLocales": {
+    "default": "en"
+  }
+}
