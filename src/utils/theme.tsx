@@ -31,8 +31,6 @@ declare module '@mui/material/styles/createPalette' {
     header: string;
   }
   
-
-
   interface Palette {
     gradients: {
       aaveGradient: string;
