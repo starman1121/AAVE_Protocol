@@ -30,6 +30,7 @@ declare module '@mui/material/styles/createPalette' {
     surface: string;
     header: string;
   }
+  
 
   interface Palette {
     gradients: {
