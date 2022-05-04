@@ -19,6 +19,7 @@ import { Client, ClientOptions, createClient } from 'graphql-ws';
 import { getStakeConfig } from '../ui-config/stakeConfig';
 import { marketsData } from './marketsAndNetworksConfig';
 
+
 /**
  *
  * @param target
