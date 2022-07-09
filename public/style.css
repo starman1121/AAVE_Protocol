@@ -53,7 +53,6 @@
     box-shadow: 0 0 40px 20px #fff, 0 0 100px 50px #ff0;
     opacity: 0;
     transition: opacity 8s, transform 8s;
-
   }
   
   .on {
