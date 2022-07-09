@@ -58,8 +58,6 @@
   .on {
     background-color: #fff;
     box-shadow: 0 0 80px 40px #fff, 0 0 200px 100px #f0f;
-
-
   }
   
   .on::before {
