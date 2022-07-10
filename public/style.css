@@ -29,6 +29,7 @@
     box-shadow: 0 0 40px 20px #fff, 0 0 100px 50px #0ff;
     transition: box-shadow 4s ease-out;
     animation: spin 16s linear infinite;
+
   }
   @keyframes spin {
     100% {
