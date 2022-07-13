@@ -38,6 +38,8 @@
   
   .luminaire:hover {
     cursor: pointer;
+      
+      
   }
   
   .luminaire::before, .luminaire::after {
